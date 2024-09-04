@@ -7,9 +7,9 @@
   <title>Document</title>
 
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-  <?php
-  include 'compara.inc';
-  ?>
+  <link rel="stylesheet" type="text/css" href="verifica.php">
+  <?
+  include "verifica.php"; ?>
 </head>
 
 <body>
@@ -75,6 +75,15 @@
     <div>
       <div>
         Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente ipsum ab deleniti quaerat totam minima accusamus dignissimos eum, consequuntur doloribus magnam et maiores quia asperiores quos non consequatur ex repellat?
+      </div>
+    </div>
+
+    <div class="card" style="width: 18rem;">
+      <img src="./img/image.png" class="card-img-top" alt="...">
+      <div class="card-body">
+        <h5 class="card-title">Card title</h5>
+        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+        <a href="#" class="btn btn-primary cor">Go somewhere</a>
       </div>
     </div>
 
