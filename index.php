@@ -15,7 +15,7 @@
 <body>
   <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-dark azul">
-      <a class="navbar-brand" href="#">MINHA MARCA</a>
+      <a class="navbar-brand" href="#">MINHA MARCAa</a>
 
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#menu" aria-controls="menu" aria-expanded="false" aria-label="Alterna navegação">
         <span class="navbar-toggler-icon"></span>
